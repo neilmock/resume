@@ -31,11 +31,11 @@ _neilmock@gmail.com &middot; New Orleans, LA &middot; 615.618.2784_
 
 > **Software Engineer _(01/2010, 4/2011)_** - Assisted in guidance and development of AOL's video production, transcoding and delivery strategy.  Glued together disparate systems to ensure consistent video delivery across all of AOL's global platforms.  One of 12/4,500 employess awarded the annual "Blue Monster" award for embodying company values.  Python, Django, Java, MySQL.
 
-#### [Studionow (acquired by AOL in 2012)](https://www.studionow.com)
+##### [Studionow (acquired by AOL in 2012)](https://www.studionow.com)
 
 > **Developer, _(10/2008 - 12/2010)_** - 2nd technical hire of video production startup.  Built web apps to facilitate low-cost high-volume video production workflows for clients, film crews, producers and editors.  Leveraged AWS to scale video preview and delivery pipelines.  Interviewed and onboarded new hires.  Python, Django, MySQL, AWS.
 
-#### [VitalChek](https://www.vitalchek.com)
+##### [VitalChek](https://www.vitalchek.com)
 
 > **Technical Support Engineer, _(12/2007, 10/2008)_** - Designed and implemented point of sale (POS) strategy for courthouse partners of an electronic vital records acquisition system.  Developed an online service-based approach to POS terminal debit/credit transactions facilitating real-time settlement.  Oversaw first US-based rollout of a series of Ingenico POS terminals, troubleshot critical encrypted PIN acquisition 3rd party code during such.  Led installation of POS systems onsite with partners. Java, JBoss, Spring, Hibernate, Microsoft SQL Server.
 
