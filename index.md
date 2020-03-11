@@ -11,6 +11,10 @@ _neilmock@gmail.com &middot; New Orleans, LA &middot; 615.618.2784_
 
 ## Experience
 
+##### [Rocket Photo (Stilio, LLC)](https://www.rocketphoto.com/)
+
+> **CTO _(4/2019 - present)_** - Designed the domain, architecture, and infrastructure for a marketplace connecting professional photographers and real estate agents.  Built an onboarding and verification process for photographers; a search, preview, and purchase marketplace for real estate agents; an invoice and payment workflow for marketplace bookings; and an administrative interface for company principals.  Ruby, Rails, PostgreSQL, Elasticsearch (Geo), Heroku, AWS, Stripe, Segment, Hubspot.
+
 ##### [Audiosocket (Leopona, Inc)](https://www.audiosocket.com/)
 
 > **CTO _(6/2014 - 3/2019)_** - Led ongoing development/maintenance of Audiosocket's MaaS (Music as a Service) platform, including their REST API and Storefront web app.  Scaled audio transcoding and file delivery mechanisms (5-7TB per batch).  Interfaced with sales, operations, C-level staff to direct product vision.  Organized B2B API partner integrations.  Ruby, Rails, Backbone.js, PostgreSQL, Elasticsearch, Redis, Heroku, AWS.
