@@ -13,15 +13,15 @@ _neilmock@gmail.com &middot; New Orleans, LA &middot; 615.618.2784_
 
 ##### [Rocket Photo (Stilio, LLC)](https://www.rocketphoto.com/)
 
-> **CTO _(4/2019 - present)_** - Designed the domain, architecture, and infrastructure for a marketplace connecting professional photographers and real estate agents.  Built an onboarding and verification process for photographers; a search, preview, and purchase marketplace for real estate agents; an invoice and payment workflow for marketplace bookings; and an administrative interface for company principals.  Ruby, Rails, PostgreSQL, Elasticsearch (Geo), Heroku, AWS, Stripe, Segment, Hubspot.
-
-##### [Audiosocket (Leopona, Inc)](https://www.audiosocket.com/)
-
-> **CTO _(6/2014 - 3/2019)_** - Led ongoing development/maintenance of Audiosocket's MaaS (Music as a Service) platform, including their REST API and Storefront web app.  Scaled audio transcoding and file delivery mechanisms (5-7TB per batch).  Interfaced with sales, operations, C-level staff to direct product vision.  Organized B2B API partner integrations.  Ruby, Rails, Backbone.js, PostgreSQL, Elasticsearch, Redis, Heroku, AWS.
+> **CTO _(4/2019 - present)_** - Designed the domain, architecture, and infrastructure for a marketplace connecting professional photographers and real estate agents.  Built an onboarding and verification process for photographers; a search, preview, and purchase marketplace for real estate agents; an invoice and payment workflow for marketplace bookings; and an administrative interface for company principals.  Ruby, Rails, PostgreSQL, Elasticsearch (Geo), Heroku, AWS, Terraform, Stripe, Segment, Hubspot.
 
 ##### [LIDCORE (Leopona, Inc)](https://www.lidcore.com/)
 
 > **CTO _(6/2014 - 03/2019)_** - Led development of large-scale web/TV/radio audio monitoring systems for copyright compliance and audience measurement, 1+ billion web videos processed, 1800+ TV/radio stations monitored 24/7 per month.  Led audio analysis development for fingerprint and watermark methods.  Led greenfield workflow specification and development of LicenseID, an infringement resolution web app.  Specified and organized B2B integration processes with customers.  Pitched to non-technical B2B potential partners.  OCaml, BuckleScript, Ruby, Rails, PostgreSQL, Elasticsearch, Redis, DynamoDB, Google PubSub, Terraform, AWS, GCP.
+
+##### [Audiosocket (Leopona, Inc)](https://www.audiosocket.com/)
+
+> **CTO _(6/2014 - 3/2019)_** - Led ongoing development/maintenance of Audiosocket's MaaS (Music as a Service) platform, including their REST API and Storefront web app.  Scaled audio transcoding and file delivery mechanisms (5-7TB per batch).  Interfaced with sales, operations, C-level staff to direct product vision.  Organized B2B API partner integrations.  Ruby, Rails, Backbone.js, PostgreSQL, Elasticsearch, Redis, Heroku, AWS.
 
 ##### Second Chance Technologies (2CT)
 
